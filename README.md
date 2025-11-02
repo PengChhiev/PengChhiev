@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @PengChhiev
 - 👀 I’m interested in improving and sharping my skills
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C,C++, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Coding is intriguing
 
 <!---
 PengChhiev/PengChhiev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
